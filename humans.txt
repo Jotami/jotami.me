@@ -1,0 +1,38 @@
+/* TEAM */
+	Author: Jose Miguel Arnaldos
+	Site: http://www.jotami.me
+	Twitter: @jotami
+	From:Murcia, Spain
+		
+
+/* SITE */
+	Last update:10/09/2016
+	Language: English
+	Doctype: HTML5
+
+/* TECH */
+	Sketch
+	http://www.sketchapp.com
+
+	Sublime Text
+	http://www.sublimetext.com
+
+	Filezilla
+	https://filezilla-project.org
+
+	JavaScript
+		RetinaJS
+		http://imulus.github.io/retinajs/
+
+		jQuery
+		https://jquery.com
+
+		Bootstrap
+		https://getbootstrap.com
+
+/* FONTS */
+	Ubuntu
+	http://www.daltonmaag.com/
+
+	Open Sans
+	https://twitter.com/@SteveMatteson1

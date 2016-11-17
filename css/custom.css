@@ -1,0 +1,54 @@
+/*
+Theme Name: Portfolio
+Description: Simple portfolio
+Author: Jose Miguel Arnaldos
+Author URI: http://www.jotami.me/
+Tags: Portfolio
+*/
+
+/****** General Styles *********/
+
+.main {
+	margin-top:100px;
+	padding: 20px;
+}
+
+.bold {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+}
+
+a {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	color:#1F9A98;
+	border-bottom:1px solid #1F9A98;
+	
+}
+
+a:hover {
+	text-decoration: none;
+	transition: all 0.3s linear;
+	color:#20817F;
+	border-bottom:1px solid #20817F;
+}
+/****** Content Styles *********/
+
+.hello {
+	font-family: 'Ubuntu', sans-serif;
+	font-size:36px;
+	color:#2E2E2E;
+	font-weight: 500;
+	letter-spacing: 0.50px;
+}
+
+.description {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 22px;
+	color: #4C4848;
+	letter-spacing: 0px;
+	line-height: 35.09px;
+	max-width: 671px;	
+}
+
